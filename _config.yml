@@ -4,7 +4,7 @@ description: 'Our mind is our API to the Universe and beyond!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
-disqus: 'neurogai'
+disqus: 'deepgai'
 email: 'guru4u@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -20,11 +20,11 @@ plugins:
   
 authors:
     neurogai:
-      name:           neurogai
-      site:           https://neurogai.github.io
+      name:           deepgai
+      site:           https://deepgai.github.io
       avatar:         assets/images/avatar1.jpg
       bio:            "Be wise, Revise!"
-      email:          wowthemesnet@gmail.com
+      email:          guru4u@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
