@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    neurogai:
+    deepgai:
       name:           deepgai
       site:           https://deepgai.github.io
       avatar:         assets/images/avatar1.jpg
